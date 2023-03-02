@@ -1,0 +1,51 @@
+50
+Gold
+Gold
+Gold
+Gold
+Gold
+Nothing
+Nothing
+Nothing
+Nothing
+Nothing
+Sword Tier 2
+Sword Tier 2
+Dagger Tier 2
+Dagger Tier 2
+Armor Tier 2
+Armor Tier 2
+Armor Tier 2
+Armor Tier 2
+Magic Armor Tier 2
+Magic Staff Tier 2
+Magic Staff Tier 2
+Club Tier 2
+Club Tier 2
+Holy Staff Tier 2
+Holy Book Tier 2
+Holy Armor Tier 2
+Dexterity Armor Tier 2
+Dexterity Armor Tier 2
+Instrument Tier 2
+Instrument Tier 2
+Great Axe Tier 2
+Great Sword Tier 2
+Nothing
+Nothing
+Nothing
+Gold
+Gold
+Gold
+Gold
+Gold
+Potion Health Tier 2
+Sword Tier 3
+Holy Staff Tier 3
+Dagger Tier 3
+Magic Staff Tier 3
+Instrument Tier 3
+Potion Health Tier 3
+Gold
+Armor Tier 3
+Weapon Tier 4
